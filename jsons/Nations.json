@@ -1,7 +1,7 @@
 [
 	{
 		"name": "The Aves",
-		"leaderName": "Shrike",
+		"leaderName": "Shrike Lanius",
 		"adjective": ["Avian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
@@ -9,16 +9,16 @@
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
+		
+		"declaringWar": "How? How delicious is your MEAT?",
+		"attacked": "I'll skewer you and tear into pieces!",
+		"defeated": "Your people's flesh was savory. Next time I'll have yours at any cost.",
+		"introduction": "Welcome. I'm Shrike, just a small innocent gourmet.",
 
-		"declaringWar": "The ancestral god wants the blood of mammals!",
-		"attacked": "You all get ready to be buried alive.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"neutralHello": "Have you eaten?",
+		"hateHello": "What, prey?",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
-
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "You want some? I hope you like it.",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
