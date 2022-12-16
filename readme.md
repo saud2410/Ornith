@@ -5,7 +5,7 @@ str 60
 cost 300
 typ. helicopter
 rep. helicopter gunship
-req. ecology
+req. computers
 atksound. missile
 
 uniques:
