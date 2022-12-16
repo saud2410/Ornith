@@ -10,4 +10,4 @@ atksound. missile
 
 uniques:
 
-"can move after attaking" "ignores ZOC" "No defensive terrain bonus" "+100% vs armored" "+150% vs air" "+150% vs helicopter" "can carry 4 aircraft units"
+"can move after attaking" "ignores ZOC" "No defensive terrain bonus" "can carry 4 aircraft units"
