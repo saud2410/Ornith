@@ -1,4 +1,4 @@
-{
+[
 	{
 		"name": "Vulture",
 		"unitType": "Helicopter",
@@ -6,7 +6,11 @@
 		"strength": 60,
 		"cost": 300,
 		"requiredTech": "Computers",
-		"uniques": ["Ignores Zone of Control", "Can move after attacking", "No defensive terrain bonus", "Can carry [2] [Aircraft] units"],
+		"uniques": ["Ignores Zone of Control",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Can carry [2] [Aircraft] units",
+			"Never appears as a Barbarian unit"],
 		"attackSound": "machinegun"
 	}
-}
+]
