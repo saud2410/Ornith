@@ -1,11 +1,11 @@
 [
-  {
-    "name": "The Aves",
+	{
+		"name": "The Aves",
 		"leaderName": "Shrike",
 		"adjective": ["Avian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
-    "favoredReligion": "Sikhism",
+		"favoredReligion": "Sikhism",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -25,6 +25,6 @@
 		"uniqueName": "Ingenuity",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["Grand Nest","Osterich","Sanderling","Comorant","Kestrell","Condoor","Kingfisher","Tern","Raven","Cokatoo","Skimmer","Heron"],
-    "spyNames": ["Crow", "Sparrow", "Swallow", "Chickadee", "Plover", "Loon", "Mallard", "Dove", "Spoonbill", "Shoebill"]
-  }
+		"spyNames": ["Crow", "Sparrow", "Swallow", "Chickadee", "Plover", "Loon", "Mallard", "Dove", "Spoonbill", "Shoebill"]
+	}
 ]
