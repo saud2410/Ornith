@@ -1,0 +1,30 @@
+[
+  {
+    "name": "The Aves",
+		"leaderName": "Shrike",
+		"adjective": ["Avian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+    "favoredReligion": "Sikhism",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The ancestral god wants the blood of mammals!",
+		"attacked": "You all get ready to be buried alive.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniqueName": "Ingenuity",
+		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Grand Nest","Osterich","Sanderling","Comorant","Kestrell","Condoor","Kingfisher","Tern","Raven","Cokatoo","Skimmer","Heron"],
+    "spyNames": ["Crow", "Sparrow", "Swallow", "Chickadee", "Plover", "Loon", "Mallard", "Dove", "Spoonbill", "Shoebill"]
+  }
+]
