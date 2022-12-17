@@ -1,16 +1,45 @@
 [
 	{
-		"name": "Vulture",
+		"name": "Nightjar",
+		"unitType": "Scout",
+		"uniqueTo": "Aves",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 8,
+		"cost": 45,
+		"upgradesTo": "Horned Owl",
+		"obsoleteTech": "Electricity",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost", "Quick Study", "Scouting III"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Horned Owl",
+		"unitType": "Archery",
+		"uniqueTo": "Aves",
+		"range": 2,
+		"movement": 5,
+		"strength": 16,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Guilds",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Computers",
+		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking"],
+		"promotions": ["March", "Logistics"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Giant Condor",
 		"unitType": "Helicopter",
+		"uniqueTo": "Aves",
+		"replaces": "Helicopter Gunship",
 		"movement": 6,
 		"strength": 60,
 		"cost": 300,
 		"requiredTech": "Computers",
-		"uniques": ["Ignores Zone of Control",
-			"Can move after attacking",
-			"No defensive terrain bonus",
-			"Can carry [2] [Aircraft] units",
-			"Never appears as a Barbarian unit"],
-		"attackSound": "machinegun"
+		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Ignores Zone of Control",
+				"Normal vision when embarked", "[+200]% Strength <when fighting in [Water] tiles>","Can carry [3] [Aircraft] units"],
+		"attackSound": "missile"
 	}
 ]
