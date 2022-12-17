@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Aevs",
+		"name": "Aves",
 		"leaderName": "Shrike Lanius",
 		"adjective": ["Avian"],
 		"startBias": ["Desert"],
@@ -13,7 +13,7 @@
 		"declaringWar": "Well, How delicious is your MEAT?",
 		"attacked": "I'll skewer you and tear into pieces!",
 		"defeated": "Your people's flesh was savory. Next time I'll have yours at any cost.",
-		"introduction": "Welcome. I'm Shrike, just a small innocent gourmet.",
+		"introduction": "Welcome. I'm 'Shrike', just a small innocent gourmet.",
 
 		"neutralHello": "Have you eaten?",
 		"hateHello": "What, prey?",
@@ -23,8 +23,10 @@
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
 		"uniqueName": "Sky Burial",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
-		"cities": ["Grand Nest","Osterich","Sanderling","Comorant","Kestrell","Condoor","Kingfisher","Tern","Raven","Cokatoo","Skimmer","Heron"],
-		"spyNames": ["Crow", "Sparrow", "Swallow", "Chickadee", "Plover", "Loon", "Mallard", "Dove", "Spoonbill", "Shoebill"]
+		"uniques": ["Earn [20]% of killed [Military] unit's [Cost] as [Culture]", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
+		"cities": ["Grand Nest","Osterich","Sanderling","Comorant","Kestrel","Condoor","Raven","Kingfisher",
+				"Chickadee","Bunting","Wryneck","Minivet","Starling","Skylark","Ibis","Heron",
+				"Plover","Tern","Grebe","Jacana","Skimmer","Curlew","Garganey","Hobby"],
+		"spyNames": ["Crow", "Sparrow", "Swallow", "Finch", "Magpie", "Quail", "Woodpecker", "Dove", "Mallard", "Seagull"]
 	}
 ]
