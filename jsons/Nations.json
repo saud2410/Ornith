@@ -24,7 +24,7 @@
 		"innerColor": [213,249,255],
 		"uniqueName": "Sky Burial",
 		"uniques": ["Earn [20]% of killed [Military] unit's [Cost] as [Culture]", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
-		"cities": ["Grand Nest","Osterich","Sanderling","Comorant","Kestrel","Condoor","Raven","Kingfisher",
+		"cities": ["Grand Nest","Osterich","Sanderling","Comorant","Kestrel","Vultuer","Raven","Kingfisher",
 				"Chickadee","Bunting","Wryneck","Minivet","Starling","Skylark","Ibis","Heron",
 				"Plover","Tern","Grebe","Jacana","Skimmer","Curlew","Garganey","Hobby"],
 		"spyNames": ["Crow", "Sparrow", "Swallow", "Finch", "Magpie", "Quail", "Woodpecker", "Dove", "Mallard", "Seagull"]
