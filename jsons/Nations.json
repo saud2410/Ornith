@@ -21,7 +21,7 @@
 		"tradeRequest": "You want some? I hope you like it.",
 
 		"outerColor": [240,240,204],
-		"innerColor": [40,40,00],
+		"innerColor": [40,40,0],
 		"uniqueName": "Sky Burial",
 		"uniques": ["Earn [20]% of killed [Military] unit's [Cost] as [Culture]", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
 		"cities": ["Grand Nest","Osterich","Sanderling","Comorant","Kestrel","Vultuer","Raven","Kingfisher",
