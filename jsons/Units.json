@@ -6,7 +6,7 @@
 		"replaces": "Scout",
 		"movement": 2,
 		"strength": 7,
-		"cost": 25,
+		"cost": 40,
 		"upgradesTo": "Horned Owl",
 		"obsoleteTech": "Electricity",
 		"uniques": ["Never appears as a Barbarian unit"],
@@ -19,15 +19,15 @@
 		"uniqueTo": "Ornith",
 		"range": 2,
 		"movement": 4,
-		"strength": 15,
-		"rangedStrength": 15,
+		"strength": 14,
+		"rangedStrength": 16,
 		"cost": 100,
 		"requiredTech": "Guilds",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "No defensive terrain bonus"],
 		"promotions": ["March", "Logistics"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Giant Condor",
@@ -35,10 +35,10 @@
 		"uniqueTo": "Ornith",
 		"movement": 6,
 		"strength": 60,
-		"cost": 300,
+		"cost": 400,
 		"requiredTech": "Computers",
-		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Ignores Zone of Control",
-				"Normal vision when embarked", "[+200]% Strength <when fighting in [Water] tiles>", "Can carry [3] [Aircraft] units"],
+		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can carry [3] [Aircraft] units"
+				"Normal vision when embarked", "May attack when embarked", "[+200]% Strength <in [Water] tiles>"],
 		"attackSound": "missile"
 	}
 ]
