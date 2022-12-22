@@ -18,7 +18,7 @@
 		"unitType": "Archery",
 		"uniqueTo": "Aves",
 		"range": 2,
-		"movement": 4,
+		"movement": 5,
 		"strength": 14,
 		"rangedStrength": 16,
 		"cost": 100,
@@ -32,6 +32,7 @@
 	{
 		"name": "Giant Condor",
 		"unitType": "Helicopter",
+		"replaces": "Helicopter Gunship",
 		"uniqueTo": "Aves",
 		"movement": 6,
 		"strength": 60,
