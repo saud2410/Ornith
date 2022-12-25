@@ -2,7 +2,7 @@
 	{
 		"name": "Nightjar",
 		"unitType": "Scout",
-		"uniqueTo": "Aves",
+		"uniqueTo": "Ornith",
 		"replaces": "Scout",
 		"movement": 2,
 		"strength": 7,
@@ -16,7 +16,7 @@
 	{
 		"name": "Horned Owl",
 		"unitType": "Archery",
-		"uniqueTo": "Aves",
+		"uniqueTo": "Ornith",
 		"range": 2,
 		"movement": 5,
 		"strength": 14,
@@ -33,7 +33,7 @@
 		"name": "Giant Condor",
 		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
-		"uniqueTo": "Aves",
+		"uniqueTo": "Ornith",
 		"movement": 6,
 		"strength": 60,
 		"cost": 400,
