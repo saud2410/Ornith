@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aves",
+		"name": "Ornith",
 		"leaderName": "Shrike",
-		"adjective": ["Ornith"],
+		"adjective": ["Ornithan"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Sikhism",
