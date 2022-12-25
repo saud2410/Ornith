@@ -1,13 +1,9 @@
-proto-mod of vulture
+Nation: Ornith
+Leader: Shrike
 
-mv 6
-str 60
-cost 300
-typ. helicopter
-rep. helicopter gunship
-req. computers
-atksound. missile
+Unique: Earn culture & faith from killed units, May choose +2 beliefs when founding a religion
 
-uniques:
-
-"can move after attaking" "ignores ZOC" "No defensive terrain bonus" "can carry 4 aircraft units"
+Units:
+- Nightjar: type Scout, replaces Scout, "+50% XP"
+- Horned Owl: type Archery, "Logistics", "March"
+- Giant Condor: type Helicopter, "Can carry 3 air units", "+200% Strength when defending in water", "May attack when embarked"
