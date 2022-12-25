@@ -39,7 +39,7 @@
 		"cost": 400,
 		"requiredTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can carry [3] [Aircraft] units"
-				"Normal vision when embarked", "May attack when embarked", "[+200]% Strength <in [Water] tiles>"],
+				"Normal vision when embarked", "May attack when embarked", "[+200]% Strength <when defending> <in [Water] tiles>"],
 		"attackSound": "missile"
 	}
 ]
