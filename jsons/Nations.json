@@ -20,10 +20,11 @@
 
 		"tradeRequest": "You want some? I hope you like it.",
 
-		"outerColor": [255,250,242],
-		"innerColor": [255,154,12],
+		"outerColor": [255, 255, 255],
+		"innerColor": [191, 133, 76],
 		"uniqueName": "Sky Burial",
-		"uniques": ["Earn [20]% of killed [Military] unit's [Cost] as [Culture]", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
+		"uniques": ["Earn [30]% of killed [Military] unit's [Cost] as [Culture]", "Earn [30]% of killed [Military] unit's [Cost] as [Faith]",
+				"May choose [2] additional belief(s) of any type when [founding] a religion"],
 		"cities": ["Grand Nest","Kestrel","Raven","Kingfisher","Comorant","Osterich","Sanderling","Vultuer",
 				"Chickadee","Bunting","Wryneck","Minivet","Starling","Skylark","Ibis","Heron",
 				"Plover","Tern","Grebe","Jacana","Skimmer","Curlew","Garganey","Hobby"],
