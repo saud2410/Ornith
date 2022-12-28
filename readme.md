@@ -1,10 +1,1 @@
-Nation: Ornith
-
-Leader: Shrike
-
-Unique: Earn culture & faith from killed units, May choose +2 beliefs when founding a religion
-
-Units:
-- Nightjar: type Scout, replaces Scout, "+50% XP"
-- Horned Owl: type Archery, "Logistics", "March"
-- Giant Condor: type Helicopter, "Can carry 3 air units", "+200% Strength when defending in water", "May attack when embarked"
+![Ornith description](https://user-images.githubusercontent.com/64586749/209861770-9df65b28-a90c-4c5b-a30e-8f6c0811375b.jpeg)
