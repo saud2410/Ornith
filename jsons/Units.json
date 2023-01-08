@@ -10,7 +10,7 @@
 		"upgradesTo": "Horned Owl",
 		"obsoleteTech": "Biology",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Survivalism I", "Survivalism II", "Big Mouth"],
+		"promotions": ["Big Mouth", "Survivalism I", "Survivalism II"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -26,7 +26,7 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus"],
-		"promotions": ["Barrage III", "Silence"],
+		"promotions": ["Silence", "Barrage III"],
 		"attackSound": "arrow"
 	},
 	{
