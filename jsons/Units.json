@@ -10,7 +10,7 @@
 		"upgradesTo": "Horned Owl",
 		"obsoleteTech": "Biology",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Big Mouth", "Survivalism II"],
+		"promotions": ["Big Mouth", "Survivalism I", "Survivalism II"],
 		"attackSound": "nonmetalhit"
 	},
 	{
