@@ -30,7 +30,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Condor",
+		"name": "Giant Condor",
 		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "Ornith",
