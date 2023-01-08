@@ -8,9 +8,9 @@
 		"strength": 8,
 		"cost": 25,
 		"upgradesTo": "Horned Owl",
-		"obsoleteTech": "Electricity",
+		"obsoleteTech": "Biology",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Scouting III", "Quick Study", "Ignore terrain cost"],
+		"promotions": ["Scouting III", "Big Mouth"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -18,19 +18,19 @@
 		"unitType": "Archery",
 		"uniqueTo": "Ornith",
 		"range": 2,
-		"movement": 5,
+		"movement": 4,
 		"strength": 14,
 		"rangedStrength": 16,
 		"cost": 100,
 		"requiredTech": "Guilds",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Computers",
-		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "No defensive terrain bonus"],
-		"promotions": ["March", "Logistics"],
+		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus"],
+		"promotions": ["Logistics", "Silence"],
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Giant Condor",
+		"name": "Condor",
 		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "Ornith",
@@ -38,8 +38,8 @@
 		"strength": 60,
 		"cost": 400,
 		"requiredTech": "Computers",
-		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can carry [3] [Aircraft] units"
-				"Normal vision when embarked", "May attack when embarked", "[+200]% Strength <when defending> <in [Water] tiles>"],
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Hovering", "Mechanical"],
 		"attackSound": "missile"
 	}
 ]

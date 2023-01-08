@@ -1,8 +1,8 @@
 
 game.png
-size: 400, 100
+size: 400, 200
 format: RGBA8888
-filter: MipMapLinearLinear,MipMapLinearLinear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Ornith
   rotate: false
@@ -28,6 +28,34 @@ UnitIcons/Horned Owl
 UnitIcons/Giant Condor
   rotate: false
   xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Big Mouth
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Silence
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hovering
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mechanical
+  rotate: false
+  xy: 300, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
