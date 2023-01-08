@@ -38,7 +38,7 @@
 		"strength": 60,
 		"cost": 400,
 		"requiredTech": "Computers",
-		"uniques": ["Never appears as a Barbarian unit"],
+		"uniques": ["Never appears as a Barbarian unit", "Ignores Zone of Control"],
 		"promotions": ["Hovering", "Machinery"],
 		"attackSound": "missile"
 	}
