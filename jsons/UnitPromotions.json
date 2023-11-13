@@ -1,18 +1,14 @@
 [
   {
     "name": "Big Mouth",
-		"uniques": ["[+50]% XP gained from combat", "[+1] Movement", "Ignores terrain cost"]
+		"uniques": ["[+10] HP when healing", "[+50]% XP gained from combat", "Ignores terrain cost"]
   },
   {
     "name": "Silence",
-		"uniques": ["[1] additional attacks per turn", "Can move after attacking", "Unit will heal every turn, even if it performs an action"]
+		"uniques": ["Unit will heal every turn, even if it performs an action", "Can move after attacking"]
   },
   {
-    "name": "Hovering",
-		"uniques": ["Can see over obstacles", "Normal vision when embarked", "[+250]% Strength <when defending> <in [Water] tiles>"]
-  },
-  {
-    "name": "Machinery",
-		"uniques": ["Can carry [2] [Aircraft] units"]
+    "name": "High-altitude",
+		"uniques": ["Can see over obstacles", "[+250]% Strength <when defending> <in [Water] tiles>"]
   }
 ]

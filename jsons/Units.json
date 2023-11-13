@@ -6,11 +6,11 @@
 		"replaces": "Scout",
 		"movement": 2,
 		"strength": 8,
-		"cost": 25,
+		"cost": 30,
 		"upgradesTo": "Horned Owl",
-		"obsoleteTech": "Biology",
+		"obsoleteTech": "Scientific Theory",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Big Mouth", "Survivalism I", "Survivalism II"],
+		"promotions": ["Big Mouth", "Scouting II"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -18,13 +18,13 @@
 		"unitType": "Archery",
 		"uniqueTo": "Ornith",
 		"range": 2,
-		"movement": 5,
-		"strength": 14,
+		"movement": 3,
+		"strength": 15,
 		"rangedStrength": 16,
 		"cost": 100,
 		"requiredTech": "Guilds",
 		"upgradesTo": "Lancer",
-		"obsoleteTech": "Computers",
+		"obsoleteTech": "Scientific Theory",
 		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus"],
 		"promotions": ["Silence", "Barrage III"],
 		"attackSound": "arrow"
@@ -36,10 +36,10 @@
 		"uniqueTo": "Ornith",
 		"movement": 6,
 		"strength": 60,
-		"cost": 400,
+		"cost": 450,
 		"requiredTech": "Computers",
-		"uniques": ["Never appears as a Barbarian unit", "Ignores Zone of Control"],
-		"promotions": ["Hovering", "Machinery"],
+		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus", "Ignores Zone of Control"],
+		"promotions": ["High-altitude"],
 		"attackSound": "missile"
 	}
 ]
