@@ -1,11 +1,11 @@
 [
   {
     "name": "Big Mouth",
-		"uniques": ["[+10] HP when healing", "[+50]% XP gained from combat", "Ignores terrain cost"]
+		"uniques": ["[+50]% XP gained from combat","[+10] HP when healing","Unit will heal every turn, even if it performs an action","Ignores terrain cost"]
   },
   {
     "name": "Silence",
-		"uniques": ["Unit will heal every turn, even if it performs an action", "Can move after attacking"]
+		"uniques": ["Can move after attacking","Ignores terrain cost",]
   },
   {
     "name": "High-altitude",
