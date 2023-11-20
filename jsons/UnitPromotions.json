@@ -1,14 +1,22 @@
 [
   {
     "name": "Big Mouth",
-		"uniques": ["[+50]% XP gained from combat","[+10] HP when healing","Unit will heal every turn, even if it performs an action"]
+		"uniques": [
+      "[+50]% XP gained from combat",
+      "[+10] HP when healing",
+      "Unit will heal every turn, even if it performs an action"]
   },
   {
     "name": "Silence",
-		"uniques": ["Can move after attacking","Ignores terrain cost","Ignores Zone of Control"]
+		"uniques": [
+      "Can move after attacking",
+      "Ignores terrain cost",
+      "Ignores Zone of Control"]
   },
   {
     "name": "High-altitude",
-		"uniques": ["Can see over obstacles", "[+250]% Strength <when defending> <in [Water] tiles>"]
+		"uniques": [
+      "Can see over obstacles",
+      "[+250]% Strength <when defending> <in [Water] tiles>"]
   }
 ]
