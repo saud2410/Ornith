@@ -17,6 +17,6 @@
     "name": "High-altitude",
 		"uniques": [
       "Can see over obstacles",
-      "[+250]% Strength <when defending> <in [Water] tiles>"]
+      "May travel on Water tiles without embarking"]
   }
 ]
