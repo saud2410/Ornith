@@ -6,27 +6,24 @@
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Sikhism",
-
+		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "Well, How delicious is your MEAT?",
+		"declaringWar": "Well, what does your FLESH taste like?",
 		"attacked": "I'll skewer you and tear into pieces!",
-		"defeated": "Your people's flesh was savory. Next time I'll have yours at any cost.",
+		"defeated": "Your people's meat was savory. Next time I'll have yours at any cost.",
 		"introduction": "Welcome. I'm 'Shrike', just a small innocent gourmet.",
-
+		
 		"neutralHello": "Have you eaten?",
-		"hateHello": "What, prey?",
-
+		"hateHello": "What?",
 		"tradeRequest": "You want some? I hope you like it.",
 
 		"outerColor": [255, 255, 255],
 		"innerColor": [191, 133, 76],
 		"uniqueName": "Sky Burial",
-		"uniques": ["[10] Unit Supply per city",
-				"Receive free [Great Engineer] when you discover [Currency]",
-				"Earn [200]% of killed [Military] unit's [Strength] as [Culture]",
-				"Earn [200]% of killed [Military] unit's [Strength] as [Faith]",
+		"uniques": [
+				"Free [Great Prophet] appears",
 				"May choose [3] additional belief(s) of any type when [founding] a religion"],
 		"cities": ["Grand Nest","Kestrell","Reiven","Kingfisher","Comorant","Osterich","Sanderling","Vultuer",
 				"Chickadee","Bunting","Wryneck","Minivet","Starling","Skylark","Ibis","Heron",

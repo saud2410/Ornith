@@ -30,15 +30,16 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Giant Condor",
+		"name": "Helicondor",
 		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "Ornith",
 		"movement": 6,
-		"strength": 60,
-		"cost": 450,
+		"interceptRange": 2,
+		"strength": 70,
+		"cost": 425,
 		"requiredTech": "Computers",
-		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus", "Ignores Zone of Control"],
+		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus"],
 		"promotions": ["High-altitude"],
 		"attackSound": "missile"
 	}

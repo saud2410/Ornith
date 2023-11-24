@@ -16,7 +16,9 @@
   {
     "name": "High-altitude",
 		"uniques": [
-      "Can see over obstacles",
-      "May travel on Water tiles without embarking"]
+      "[+150]% Strength <vs [Fighter] units>",
+      "[1] extra interceptions may be made per turn",
+      "May travel on Water tiles without embarking",
+      "Can see over obstacles"]
   }
 ]
