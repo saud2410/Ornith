@@ -5,12 +5,12 @@
 		"uniqueTo": "Ornith",
 		"replaces": "Scout",
 		"movement": 2,
-		"strength": 8,
+		"strength": 7,
 		"cost": 30,
 		"upgradesTo": "Horned Owl",
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Big Mouth", "Scouting II"],
+		"promotions": ["Big Mouth","Scouting II"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -25,22 +25,22 @@
 		"requiredTech": "Guilds",
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus"],
-		"promotions": ["Silence", "Barrage III"],
+		"uniques": ["Never appears as a Barbarian unit","No defensive terrain bonus"],
+		"promotions": ["Silence","Barrage III"],
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Helicondor",
+		"name": "Giant Condor",
 		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "Ornith",
 		"movement": 6,
 		"interceptRange": 2,
 		"strength": 70,
-		"cost": 425,
+		"cost": 450,
 		"requiredTech": "Computers",
-		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain bonus"],
-		"promotions": ["High-altitude"],
+		"uniques": ["Never appears as a Barbarian unit","No defensive terrain bonus"],
+		"promotions": ["Endurance Flight"],
 		"attackSound": "missile"
 	}
 ]
