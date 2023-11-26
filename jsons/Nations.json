@@ -23,17 +23,18 @@
 		"innerColor": [191, 133, 76],
 		"uniqueName": "Sky Burial",
 		"uniques": [
-				"Free [Great Prophet] appears",
-				"May choose [3] additional belief(s) of any type when [founding] a religion",
-				"Earn [20]% of killed [Military] unit's [Cost] as [Faith]",
-				"[+1 Food, +1 Faith] for each adjacent [Mountain]"],
+			"Free [Great Prophet] appears",
+			"May choose [3] additional belief(s) of any type when [founding] a religion",
+			"[+1 Faith] from [Hill] tiles <with [1] to [2] neighboring [Mountain] tiles>",
+			"[+2 Faith, +2 Food] from [Hill] tiles <with [3] to [6] neighboring [Mountain] tiles>",
+			"Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
 		"cities": ["Grand Nest","Kestrell","Reiven","Kingfisher",
-				"Comorant","Osterich","Sanderling","Vultuer",
-				"Chickadee","Bunting","Wryneck","Minivet",
-				"Starling","Skylark","Ibis","Heron",
-				"Plover","Tern","Grebe","Jacana",
-				"Skimmer","Curlew","Garganey","Hobby"],
+			"Comorant","Osterich","Sanderling","Vultuer",
+			"Chickadee","Bunting","Wryneck","Minivet",
+			"Starling","Skylark","Ibis","Heron",
+			"Plover","Tern","Grebe","Jacana",
+			"Skimmer","Curlew","Garganey","Hobby"],
 		"spyNames": ["Crow","Sparrow","Swallow","Finch","Magpie",
-				"Quail","Woodpecker","Dove","Mallard","Seagull"]
+			"Quail","Woodpecker","Dove","Mallard","Seagull"]
 	}
 ]
