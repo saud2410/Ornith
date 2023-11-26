@@ -24,7 +24,7 @@
 		"cost": 100,
 		"requiredTech": "Guilds",
 		"upgradesTo": "Lancer",
-		"obsoleteTech": "Scientific Theory",
+		"obsoleteTech": "Metallurgy",
 		"uniques": ["Never appears as a Barbarian unit","No defensive terrain bonus"],
 		"promotions": ["Silence","Barrage III"],
 		"attackSound": "arrow"
