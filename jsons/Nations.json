@@ -24,10 +24,10 @@
 		"uniqueName": "Sky Burial",
 		"uniques": [
 			"Free [Great Prophet] appears",
+			"Earn [20]% of killed [Military] unit's [Cost] as [Faith]",
 			"May choose [3] additional belief(s) of any type when [founding] a religion",
 			"[+1 Faith] from [Hill] tiles [in all cities] <with [1] to [2] neighboring [Mountain] tiles>",
-			"[+2 Faith, +2 Food] from [Hill] tiles [in all cities] <with [3] to [6] neighboring [Mountain] tiles>",
-			"Earn [20]% of killed [Military] unit's [Cost] as [Faith]"],
+			"[+2 Faith, +2 Food] from [Hill] tiles [in all cities] <with [3] to [6] neighboring [Mountain] tiles>"],
 		"cities": ["Grand Nest","Kestrell","Reiven","Kingfisher",
 			"Comorant","Osterich","Sanderling","Vultuer",
 			"Chickadee","Bunting","Wryneck","Minivet",
