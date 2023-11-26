@@ -46,16 +46,9 @@ UnitPromotionIcons/Silence
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hovering
+UnitPromotionIcons/Endurance Flight
   rotate: false
   xy: 200, 100
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Machinery
-  rotate: false
-  xy: 300, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
