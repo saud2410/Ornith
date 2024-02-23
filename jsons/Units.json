@@ -76,7 +76,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Hover nest",
+		"name": "Hover Nest",
 		"unitType": "Helicopter",
 		"uniqueTo": "Ornith",
 		"replaces": "Helicopter Gunship",
