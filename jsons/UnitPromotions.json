@@ -1,23 +1,22 @@
 [
 	{
-		"name": "Big Mouth",
+		"name": "Feathers",
 		"uniques": [
-			"[+50]% XP gained from combat", 
-			"[+10] HP when healing", 
-			"Unit will heal every turn, even if it performs an action"]
+			"Unit will heal every turn, even if it performs an action",
+			"[+10] HP when healing",
+			"[+50]% XP gained from combat"]
 	},
 	{
-		"name": "Silence",
+		"name": "Claws",
 		"uniques": [
-			"Can move after attacking", 
-			"Ignores terrain cost", 
-			"Ignores Zone of Control"]
+			"[+2] Movement",
+			"[+2] Range",
+			"[+50]% XP gained from combat"]
 	},
 	{
-		"name": "Endurance Flight",
+		"name": "Thorns",
 		"uniques": [
-			"Can see over obstacles", 
-			"May travel on Water tiles without embarking", 
-			"[+150]% Strength <vs [Fighter] units>"]
+			"Can carry [2] [Fighter] units",
+			"Ignores terrain cost"]
 	}
 ]
