@@ -19,7 +19,7 @@
 		"uniqueTo": "Ornith",
 		"movement": 1,
 		"strength": 15,
-		"rangedStrength": 15,
+		"rangedStrength": 14,
 		"range": 1,
 		"interceptRange": 3,
 		"cost": 100,
