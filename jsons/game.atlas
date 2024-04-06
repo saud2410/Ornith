@@ -1,0 +1,139 @@
+
+game.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Ornith
+  rotate: false
+  xy: 868, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Tilesets/AbsoluteUnits/Units/Hover nest
+  rotate: false
+  xy: 1084, 92
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/HexaRealm/Units/Hover nest
+  rotate: false
+  xy: 1084, 92
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/AbsoluteUnits/Units/Iron nest
+  rotate: false
+  xy: 1084, 52
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/HexaRealm/Units/Iron nest
+  rotate: false
+  xy: 1084, 52
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/AbsoluteUnits/Units/Nest
+  rotate: false
+  xy: 1124, 92
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/HexaRealm/Units/Nest
+  rotate: false
+  xy: 1124, 92
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/FantasyHex/Units/Hover nest
+  rotate: false
+  xy: 1084, 28
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tilesets/FantasyHex/Units/Iron nest
+  rotate: false
+  xy: 1084, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tilesets/FantasyHex/Units/Nest
+  rotate: false
+  xy: 1124, 68
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+UnitIcons/Giant Condor
+  rotate: false
+  xy: 220, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Horned Owl
+  rotate: false
+  xy: 328, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hover Nest
+  rotate: false
+  xy: 436, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Iron Nest
+  rotate: false
+  xy: 544, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nest
+  rotate: false
+  xy: 652, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nightjar
+  rotate: false
+  xy: 760, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Claws
+  rotate: false
+  xy: 4, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Feathers
+  rotate: false
+  xy: 112, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Thorns
+  rotate: false
+  xy: 976, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
