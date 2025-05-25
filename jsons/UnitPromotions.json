@@ -7,16 +7,17 @@
 			"[+50]% XP gained from combat"]
 	},
 	{
-		"name": "Claws",
+		"name": "Hunt",
 		"uniques": [
-			"[+2] Movement",
-			"[+2] Range",
+			"Earn [10]% of killed unit's [Cost] as [Faith]",
+			"[-100]% maintenance costs",
 			"[+50]% XP gained from combat"]
 	},
 	{
-		"name": "Thorns",
+		"name": "Nest",
 		"uniques": [
-			"Can carry [2] [Fighter] units",
-			"Ignores terrain cost"]
+			"Ignores terrain cost",
+			"[+50]% Strength <when defending>",
+			"Can carry [2] [Fighter] units"]
 	}
 ]
