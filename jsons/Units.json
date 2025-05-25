@@ -26,7 +26,7 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Flight",
 		"upgradesTo": "Triplane",
-		"promotions": ["Hunt"],
+		"promotions": ["Hunts"],
 		"uniques": ["[-2] Sight","Unbuildable"],
 		"attackSound": "arrow"
 	},
@@ -73,7 +73,7 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
 		"uniques": ["Unbuildable"],
-		"promotions": ["Nest"],
+		"promotions": ["Nests"],
 		"attackSound": "metalhit"
 	},
 	{
