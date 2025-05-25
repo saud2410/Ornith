@@ -9,7 +9,7 @@
 	{
 		"name": "Hunts",
 		"uniques": [
-			"Earn [10]% of killed unit's [Cost] as [Faith]",
+			"Earn [10]% of killed [non-air] unit's [Cost] as [Faith]",
 			"[-100]% maintenance costs",
 			"[+50]% XP gained from combat"]
 	},

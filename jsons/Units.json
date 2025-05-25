@@ -8,7 +8,7 @@
 		"strength": 5,
 		"cost": 40,
 		"obsoleteTech": "Military Science",
-		"upgradesTo": "Horned Owl",
+		"upgradesTo": "Owl",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Feathers"],
 		"attackSound": "nonmetalhit"
