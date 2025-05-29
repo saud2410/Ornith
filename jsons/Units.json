@@ -26,7 +26,7 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Flight",
 		"upgradesTo": "Triplane",
-		"promotions": ["Hunts"],
+		"promotions": ["Claws"],
 		"uniques": ["[-2] Sight","Unbuildable"],
 		"attackSound": "arrow"
 	},
@@ -48,7 +48,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Twigs",
+		"name": "Bush",
 		"unitType": "Scout",
 		"uniqueTo": "Ornith",
 		"replaces": "Spearman",
