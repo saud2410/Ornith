@@ -7,9 +7,9 @@
 			"[+50]% XP gained from combat"]
 	},
 	{
-		"name": "Hunts",
+		"name": "Claws",
 		"uniques": [
-			"Earn [10]% of killed [non-air] unit's [Cost] as [Faith]",
+			"Earn [15]% of killed [non-air] unit's [Cost] as [Faith]",
 			"[-100]% maintenance costs",
 			"[+50]% XP gained from combat"]
 	},
