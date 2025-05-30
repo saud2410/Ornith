@@ -48,7 +48,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Bush",
+		"name": "Twigs",
 		"unitType": "Scout",
 		"uniqueTo": "Ornith",
 		"replaces": "Spearman",
