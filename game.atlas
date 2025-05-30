@@ -102,7 +102,7 @@ UnitIcons/Nest
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Bush
+UnitIcons/Twigs
   rotate: false
   xy: 652, 24
   size: 100, 100
