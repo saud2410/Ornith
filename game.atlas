@@ -81,7 +81,7 @@ UnitIcons/Condor
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Owl
+UnitIcons/Horned Owl
   rotate: false
   xy: 328, 24
   size: 100, 100
@@ -116,7 +116,7 @@ UnitIcons/Nightjar
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Claws
+UnitPromotionIcons/Carnivorous
   rotate: false
   xy: 4, 24
   size: 100, 100
