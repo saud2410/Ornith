@@ -26,7 +26,7 @@
 		"requiredTech": "Guilds",
 		"obsoleteTech": "Flight",
 		"upgradesTo": "Triplane",
-		"promotions": ["Claws"],
+		"promotions": ["Carnivorous"],
 		"uniques": ["[-2] Sight","Unbuildable"],
 		"attackSound": "arrow"
 	},
