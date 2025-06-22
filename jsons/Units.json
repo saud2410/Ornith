@@ -63,10 +63,10 @@
 	},
 	{
 		"name": "Nest",
-		"unitType": "Sword",
+		"unitType": "Siege",
 		"uniqueTo": "Ornith",
 		"replaces": "Pikeman",
-		"movement": 4,
+		"movement": 3,
 		"strength": 14,
 		"cost": 100,
 		"requiredTech": "Civil Service",
@@ -85,7 +85,7 @@
 		"strength": 55,
 		"cost": 475,
 		"requiredTech": "Computers",
-		"uniques": ["No defensive terrain bonus","Can move after attacking","Ignores Zone of Control","Unable to capture cities","Can carry [1] extra [Fighter] units","May travel on Water tiles without embarking","Never appears as a Barbarian unit","Unbuildable"],
+		"uniques": ["No defensive terrain bonus","Can move after attacking","Ignores Zone of Control","Unable to capture cities","May travel on Water tiles without embarking","Never appears as a Barbarian unit","Unbuildable"],
 		"attackSound": "machinegun"
 	}
 ]
